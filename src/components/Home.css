@@ -40,7 +40,7 @@
 
 
 .hero .content p:first-child {
-    font-style: italic;
+    /* font-style: italic; */
     font-size: .9rem;
 }
 
