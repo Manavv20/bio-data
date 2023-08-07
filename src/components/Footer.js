@@ -1,11 +1,11 @@
 import React from "react";
 import "./Footer.css"
 const Footer = () => {
-    return(
-        <div className="footer">
-<h1>Footer Hai</h1>
-        </div>
-        
-    )
-}
+return(
+    
+ <section id="footer">
+    
+    </section>
+        )
+        }
 export default Footer;

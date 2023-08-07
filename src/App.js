@@ -6,7 +6,7 @@ import Work from './components/Work';
 import Education from './components/Education';
 import Skills from './components/Skills';
 import Portfolio from './components/Portfolio';
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 import Contact from './components/Contact';
 // import "./App.css" 
 
@@ -22,7 +22,7 @@ function App() {
     <Skills/>
     <Portfolio/>
     <Contact/>
-    <Footer/>
+
     </div>
   );
 }
