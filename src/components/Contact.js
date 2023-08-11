@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 import "./Contact.css";
 const Contact = () => {
