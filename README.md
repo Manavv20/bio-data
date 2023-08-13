@@ -71,3 +71,7 @@ Thank you for checking out my Full Stack Web Developer portfolio project. I'm ex
 <img src="./src/assets/AboutPage.jpeg"/>
 3. Work Page
 <img src="./src/assets/WorkPage.png"/>
+4. Education Page
+<img src="./src/assets/EducationPage.jpeg"/>
+5. Skills Page
+<img src="./src/assets/SkillsPage.png">
