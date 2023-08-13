@@ -70,4 +70,4 @@ Thank you for checking out my Full Stack Web Developer portfolio project. I'm ex
 2. About Page
 <img src="./src/assets/AboutPage.jpeg"/>
 3. Work Page
-<img src="./src/assets/WorkPage.png>
+<img src="./src/assets/WorkPage.png"/>
