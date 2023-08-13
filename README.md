@@ -62,3 +62,8 @@ Feel free to reach out to me if you have any questions, suggestions, or job oppo
 - Email: manavajmera03@gmail.com
 
 Thank you for checking out my Full Stack Web Developer portfolio project. I'm excited to continue learning and creating!
+
+## Screenshots
+
+1. Home Page
+<img src="./src/assets/HomePage.jpeg"/>
